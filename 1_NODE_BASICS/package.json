@@ -1,0 +1,21 @@
+{
+  "name": "1_NODE_BASICS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "01": "tsx watch src/01-process-object.ts",
+    "02": "tsx watch src/02-crypto-module.ts",
+    "03": "tsx watch src/03-os-module.ts",
+    "04": "tsx watch src/04-path-module.ts",
+    "05": "tsx watch src/05-timer-module.ts",
+    "06": "tsx watch src/06-callback-and-promises.ts",
+    "07": "tsx watch src/07-fs-module.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^26.4.1",
+    "tsx": "^4.23.13",
+    "typescript": "^7.0.2"
+  }
+}
