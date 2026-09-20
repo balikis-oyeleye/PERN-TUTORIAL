@@ -14,7 +14,8 @@
     "07": "tsx watch src/07-fs-module.ts",
     "08": "tsx watch src/08-buffer.ts",
     "09": "tsx watch src/09-url-module.ts",
-    "10": "tsx watch src/10-event-emitters.ts"
+    "10": "tsx watch src/10-event-emitters.ts",
+    "11": "tsx watch src/11-streams.ts"
   },
   "devDependencies": {
     "@types/node": "^26.4.1",
