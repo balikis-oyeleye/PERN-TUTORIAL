@@ -13,7 +13,8 @@
     "06": "tsx watch src/06-callback-and-promises.ts",
     "07": "tsx watch src/07-fs-module.ts",
     "08": "tsx watch src/08-buffer.ts",
-    "09": "tsx watch src/09-url-module.ts"
+    "09": "tsx watch src/09-url-module.ts",
+    "10": "tsx watch src/10-event-emitters.ts"
   },
   "devDependencies": {
     "@types/node": "^26.4.1",
