@@ -11,7 +11,8 @@
     "04": "tsx watch src/04-path-module.ts",
     "05": "tsx watch src/05-timer-module.ts",
     "06": "tsx watch src/06-callback-and-promises.ts",
-    "07": "tsx watch src/07-fs-module.ts"
+    "07": "tsx watch src/07-fs-module.ts",
+    "08": "tsx watch src/08-buffer.ts"
   },
   "devDependencies": {
     "@types/node": "^26.4.1",
