@@ -7,7 +7,8 @@
     "01": "tsx watch src/01-basic-http-server.ts",
     "02": "tsx watch src/02-routing.ts",
     "03": "tsx watch src/03-reading-body.ts",
-    "04": "tsx watch src/04-json-response.ts"
+    "04": "tsx watch src/04-json-response.ts",
+    "05": "tsx watch src/05-external-api-call.ts"
   },
   "devDependencies": {
     "@types/node": "^26.4.1",
